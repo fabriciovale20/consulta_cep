@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+}
+
+#tela {
+    background: linear-gradient(#063f56, #e0f6ff);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+}
+
+#titulo {
+    color: white;
+}
+
+#button_consultar {
+	background: #02390e;
+	color: white;
+	border-style: outset;
+	border-color: #0066A2;
+	text-shadow: none;
+	border-radius: 5px;
+}
+
+#button_consultar:hover {
+	background: #284a22;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px #679f68;
+	text-shadow: none;
+}
+
+#res {
+    padding: 10px;
+    margin: auto;
+    text-align: start;
+    margin-top: 10px;
+    width: 400px;
+    background-color: rgb(150, 197, 238);
+    border: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: 2px 2px grey;
+}
+
+
+
+
+/* #res {
+    padding: 10px;
+    margin-top: 10px;
+    max-width: 350px;
+    background-color: lightyellow;
+    border: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: 2px 2px grey;
+} */
